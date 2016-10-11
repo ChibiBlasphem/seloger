@@ -10,7 +10,7 @@ namespace AmazingApp
     {
         public enum Types
         {
-            Cat, Dog
+            Cat, Dog, ShiningPoney
         }
 
         abstract public Types getAnimal();
